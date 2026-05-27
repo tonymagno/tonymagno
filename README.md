@@ -1,8 +1,12 @@
-# 👨‍💻 Bem-vindo(a) ao perfil do Tony Magno 😁
+# 👨‍💻 Tony Magno
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+perfil+do+Tony+Magno+%F0%9F%98%81;Desenvolvedor+Full+Stack+J%C3%BAnior;Suporte+em+TI+%7C+Python+%7C+JavaScript+%7C+SaaS" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/tonymagno">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonymagno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonymagno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Tony%20Magno%27s%20GitHub%20Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymagno&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
   </a>
 </p>
@@ -19,17 +23,19 @@
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="WordPress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </p>
 
 ---
 
 ## 📌 Projetos em Destaque
 
-- SaaS Orçamento Premium
-- Lumine Joias 2025
-- YnoHost TI
-- Dark Money Robô Dólar B3
-- Portfólio Web Profissional
+- **Orçamento Premium** — SaaS para geração e gestão de orçamentos profissionais
+- **Lumine Joias 2025** — projeto web institucional/comercial
+- **YnoHost TI** — presença digital e posicionamento de marca
+- **Dark Money Robô Dólar B3** — automação e análise operacional
+- **Portfólio Web Profissional** — apresentação de projetos e serviços
 
 ---
 
