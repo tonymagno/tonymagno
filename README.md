@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Tony Magno</h1>
-
+  <img src="assets/images/Banner_Perfil_Github.png" alt="Tony Magno Banner" width="100%">
+</p>
 <p align="center">
   <strong>Full Stack Developer | Front-End Engineer | IT Support | Automation | UI/UX</strong>
 </p>
