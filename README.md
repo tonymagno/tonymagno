@@ -1,64 +1,163 @@
-# 👨‍💻 Tony Magno 
+<!-- PROFILE HEADER -->
+<h1 align="center">Tony Magno</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+perfil+do+Tony+Magno+%F0%9F%98%81;Desenvolvedor+Full+Stack+J%C3%BAnior;Suporte+em+TI+%7C+Python+%7C+JavaScript+%7C+SaaS" alt="Typing SVG" />
+  <strong>Full Stack Developer | Front-End Engineer | IT Support | Automation | UI/UX</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tonymagno">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tonymagno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tonymagno&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  Desenvolvendo soluções modernas, escaláveis e orientadas a resultado, com foco em produto, performance e experiência do usuário.
 </p>
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
 <p align="center">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="WordPress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-</p>
-
----
-
-## 📌 Projetos em Destaque
-
-- **Orçamento Premium** — SaaS para geração e gestão de orçamentos profissionais
-- **Lumine Joias 2025** — projeto web institucional/comercial
-- **YnoHost TI** — presença digital e posicionamento de marca
-- **Dark Money Robô Dólar B3** — automação e análise operacional
-- **Portfólio Web Profissional** — apresentação de projetos e serviços
-
----
-
-## 🌐 Contato e Redes
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tony-magno-07112913b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tony_brak@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/tonymagno" target="_blank">
+    <img src="https://img.shields.io/github/followers/tonymagno?label=Followers&style=social" alt="GitHub followers">
   </a>
   <a href="https://github.com/tonymagno" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/tonymagno" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/github/stars/tonymagno?label=Stars&style=social" alt="GitHub stars">
   </a>
 </p>
 
 ---
 
+## About Me
+
+Sou um profissional de tecnologia com foco em **desenvolvimento web, suporte técnico, automação e engenharia de software**.
+
+Minha abordagem une:
+- pensamento lógico;
+- organização de arquitetura;
+- código limpo;
+- atenção a detalhes;
+- visão de produto;
+- entrega prática e funcional.
+
+Trabalho com soluções que conectam **negócio, tecnologia e experiência do usuário**.
+
+---
+
+## What I Do
+
+- Desenvolvimento **Front-End** moderno e responsivo
+- Desenvolvimento **Full Stack**
+- Interfaces profissionais com foco em UX/UI
+- Integração com APIs e bancos de dados
+- Automação de processos e scripts
+- Suporte técnico e diagnóstico de sistemas
+- Estruturação de projetos escaláveis
+- Boas práticas de engenharia de software
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php,c,java" />
+</p>
+
+### Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,figma" />
+</p>
+
+### Back-End / Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mysql,postgres,mongodb" />
+</p>
+
+### DevOps / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman" />
+</p>
+
+### Other Skills
+- Git / GitHub
+- Linux
+- PowerShell
+- SEO
+- Responsive Design
+- Debugging
+- CI/CD
+- Agile / Scrum
+- Software Architecture
+- IT Support
+- Networking fundamentals
+
+---
+
+## Featured Projects
+
+### 1. Orçamento Premium
+Sistema voltado para gestão e automação de orçamentos, com foco em organização, produtividade e escalabilidade.
+
+### 2. Portfólio Web Profissional
+Projeto pessoal com foco em apresentação de carreira, branding técnico e conversão de oportunidades.
+
+### 3. Lumine Joias 2025
+Site com foco em apresentação visual, experiência de navegação e posicionamento de marca.
+
+### 4. YnoHost TI
+Projeto com identidade voltada a serviços de tecnologia, infraestrutura e suporte.
+
+### 5. Dark Money Robô Dólar B3
+Projeto com foco em automação e lógica de operações para mercado financeiro.
+
+> Mais projetos em constante evolução, sempre buscando qualidade, clareza e impacto real.
+
+---
+
+## Current Focus
+
+Estou aprofundando minha atuação em:
+- desenvolvimento de produtos digitais;
+- criação de portfólio forte para oportunidades globais;
+- soluções web modernas;
+- automação inteligente;
+- arquitetura de sistemas;
+- melhoria contínua de performance e organização de código.
+
+---
+
+## Goals
+
+Meu objetivo é construir um portfólio sólido, com projetos que demonstrem:
+
+- capacidade técnica real;
+- visão de negócio;
+- domínio de tecnologias modernas;
+- entrega profissional;
+- consistência de evolução;
+- prontidão para oportunidades nacionais e internacionais.
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tonymagno&color=blueviolet" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonymagno&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonymagno&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tonymagno&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+---
+
+## Contact
+
+- GitHub: [tonymagno](https://github.com/tonymagno)
+- LinkedIn:[https://www.linkedin.com/in/tony-magno-07112913b?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- Portfólio[https://portfolioci-kkfbqizc.manus.space/]
+- E-mail: [tony_brak@hotmail.com]
+
+---
+
+## Philosophy
+
+> Code with clarity. Build with purpose. Deliver with discipline.
+
+<p align="center">
+  <strong>Always improving. Always building. Always shipping.</strong>
 </p>
