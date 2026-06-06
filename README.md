@@ -1,12 +1,14 @@
 <!-- PROFILE HEADER -->
+<p align="center">
   <img src="assets/images/Banner_Perfil_Github.png" alt="Tony Magno Banner" width="100%">
 </p>
+
 <p align="center">
   <strong>Full Stack Developer | Front-End Engineer | IT Support | Automation | UI/UX</strong>
 </p>
 
 <p align="center">
-  Desenvolvendo soluções modernas, escaláveis e orientadas a resultado, com foco em produto, performance e experiência do usuário.
+  Building modern, scalable, and results-driven solutions with a focus on product, performance, and user experience.
 </p>
 
 <p align="center">
@@ -22,30 +24,30 @@
 
 ## About Me
 
-Sou um profissional de tecnologia com foco em **desenvolvimento web, suporte técnico, automação e engenharia de software**.
+I am a technology professional focused on **web development, technical support, automation, and software engineering**.
 
-Minha abordagem une:
-- pensamento lógico;
-- organização de arquitetura;
-- código limpo;
-- atenção a detalhes;
-- visão de produto;
-- entrega prática e funcional.
+My approach combines:
+- logical thinking;
+- architectural organization;
+- clean code;
+- attention to detail;
+- product mindset;
+- practical and functional delivery.
 
-Trabalho com soluções que conectam **negócio, tecnologia e experiência do usuário**.
+I work on solutions that connect **business, technology, and user experience**.
 
 ---
 
 ## What I Do
 
-- Desenvolvimento **Front-End** moderno e responsivo
-- Desenvolvimento **Full Stack**
-- Interfaces profissionais com foco em UX/UI
-- Integração com APIs e bancos de dados
-- Automação de processos e scripts
-- Suporte técnico e diagnóstico de sistemas
-- Estruturação de projetos escaláveis
-- Boas práticas de engenharia de software
+- Modern and responsive **Front-End** development
+- **Full Stack** development
+- Professional interfaces focused on UX/UI
+- API and database integration
+- Process and script automation
+- Technical support and system diagnostics
+- Structuring scalable projects
+- Software engineering best practices
 
 ---
 
@@ -89,46 +91,46 @@ Trabalho com soluções que conectam **negócio, tecnologia e experiência do us
 ## Featured Projects
 
 ### 1. Orçamento Premium
-Sistema voltado para gestão e automação de orçamentos, com foco em organização, produtividade e escalabilidade.
+A system focused on quotation management and automation, with an emphasis on organization, productivity, and scalability.
 
-### 2. Portfólio Web Profissional
-Projeto pessoal com foco em apresentação de carreira, branding técnico e conversão de oportunidades.
+### 2. Professional Web Portfolio
+A personal project focused on career presentation, technical branding, and opportunity conversion.
 
 ### 3. Lumine Joias 2025
-Site com foco em apresentação visual, experiência de navegação e posicionamento de marca.
+A website focused on visual presentation, browsing experience, and brand positioning.
 
 ### 4. YnoHost TI
-Projeto com identidade voltada a serviços de tecnologia, infraestrutura e suporte.
+A project with an identity focused on technology services, infrastructure, and support.
 
 ### 5. Dark Money Robô Dólar B3
-Projeto com foco em automação e lógica de operações para mercado financeiro.
+A project focused on automation and market operations logic for the financial market.
 
-> Mais projetos em constante evolução, sempre buscando qualidade, clareza e impacto real.
+> More projects are in constant evolution, always seeking quality, clarity, and real impact.
 
 ---
 
 ## Current Focus
 
-Estou aprofundando minha atuação em:
-- desenvolvimento de produtos digitais;
-- criação de portfólio forte para oportunidades globais;
-- soluções web modernas;
-- automação inteligente;
-- arquitetura de sistemas;
-- melhoria contínua de performance e organização de código.
+I am deepening my work in:
+- digital product development;
+- building a strong portfolio for global opportunities;
+- modern web solutions;
+- intelligent automation;
+- systems architecture;
+- continuous improvement in performance and code organization.
 
 ---
 
 ## Goals
 
-Meu objetivo é construir um portfólio sólido, com projetos que demonstrem:
+My goal is to build a solid portfolio with projects that demonstrate:
 
-- capacidade técnica real;
-- visão de negócio;
-- domínio de tecnologias modernas;
-- entrega profissional;
-- consistência de evolução;
-- prontidão para oportunidades nacionais e internacionais.
+- real technical capability;
+- business understanding;
+- mastery of modern technologies;
+- professional delivery;
+- consistent growth;
+- readiness for national and international opportunities.
 
 ---
 
@@ -148,9 +150,9 @@ Meu objetivo é construir um portfólio sólido, com projetos que demonstrem:
 ## Contact
 
 - GitHub: [tonymagno](https://github.com/tonymagno)
-- LinkedIn:[https://www.linkedin.com/in/tony-magno-07112913b?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- Portfólio[https://portfolioci-kkfbqizc.manus.space/]
-- E-mail: [tony_brak@hotmail.com]
+- LinkedIn: [https://www.linkedin.com/in/tony-magno-07112913b?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- Portfolio: [https://portfolioci-kkfbqizc.manus.space/]
+- E-mail: [tony_brak@hotmail.com](mailto:tony_brak@hotmail.com)
 
 ---
 
