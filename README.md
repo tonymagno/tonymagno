@@ -151,7 +151,7 @@ My goal is to build a solid portfolio with projects that demonstrate:
 
 - GitHub: [tonymagno](https://github.com/tonymagno)
 - LinkedIn: [https://www.linkedin.com/in/tony-magno-07112913b?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- Portfolio: [portfolio-interativo-taupe.vercel.app]
+- Portfolio: [https://portfolio-interativo-taupe.vercel.app/]
 - E-mail: [tony_brak@hotmail.com](mailto:tony_brak@hotmail.com)
 
 ---
